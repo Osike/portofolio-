@@ -91,10 +91,10 @@ section {
 }
 
 .hero {
-  height: 100vh;
-  width: 200vh;
+  height: 50vh;
+  width: 70vh;
   /*background: url(./img/background.png);*/
-  background:url(img/DSC00107.JPG);
+  background:url(img/DSC00390-removebg.png);
   background-position: top right -125px;
   background-size: cover;
   display: flex;
